@@ -8,7 +8,7 @@ Person A should modify content here.
 
 ## Person B:
 
-Person B should modify content here.
+You'll never guess my dirty little secret.
 
 ## Person C:
 
