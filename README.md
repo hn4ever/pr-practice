@@ -12,7 +12,7 @@ Person B should modify content here.
 
 ## Person C:
 
-Person C should modify content here.
+Nice to work with you all, our project will be awesome!
 
 ## Person D:
 
